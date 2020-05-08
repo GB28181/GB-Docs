@@ -19,3 +19,7 @@
 ## Articles
 
 https://github.com/GB28181/Awesome-GB28181
+
+## thanks
+
+[@xueqing](https://github.com/xueqing/GB-Doc)姑娘的资料馆帮了很大忙
