@@ -1,3 +1,4 @@
+
 [submodule "GM-Standards"]
 	path = GM-Standards
-	url = https://gitee.com/openstd/GB-Docs.git
+	url = https://gitee.com/openstd/GM-Standards.git
