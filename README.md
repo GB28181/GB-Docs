@@ -16,9 +16,11 @@
 - [GB 文档](./GB)
 - [GBT 文档](./GBT)
 - [GMT 文档](./GM-Standards/README.md)
+- [电力行业标准](./QGDW)
 - [参考文档](./REF)
 - [RFC 文档](./RFC)
 - [检测工具](./Tool)
+
 
 ## Articles
 
